@@ -4,29 +4,286 @@
       "name": "General Rules",
       "rules": [
         {
-          "id": 1,
-          "title": "Respect Everyone",
-          "rule": "Treat all players and staff with respect at all times."
+          "id": "1.0",
+          "title": "Account Ownership and Responsibility",
+          "rule": "Account ownership is non-transferable, the property of the creator, and cannot be shared or traded. All players are responsible for their account, IP address, Social Club, and hardware. Linked accounts will face the same punishments and cannot be unlinked."
         },
         {
-          "id": 2,
-          "title": "No Harassment",
-          "rule": "Harassment, hate speech, or discrimination is not allowed."
+          "id": "1.1",
+          "title": "Scamming",
+          "rule": "Scamming is not allowed under any circumstances."
+        },
+        {
+          "id": "1.2",
+          "title": "Out of Game Transactions",
+          "rule": "Out-of-game transactions are not allowed (for example, paying real money for in-server items like cars)."
+        },
+        {
+          "id": "1.3",
+          "title": "Staff Discretion",
+          "rule": "Management has the right to remove players from the server when deemed necessary."
+        },
+        {
+          "id": "1.4",
+          "title": "Personally Identifiable Information",
+          "rule": "Leaking personal information or making threats to leak personal information is prohibited."
+        },
+        {
+          "id": "1.5",
+          "title": "Store",
+          "rule": "No refunds on store purchases. Items gained via ♕ are non-transferable. Create a Discord ticket for purchase issues. No swaps for chosen 1:1/VIP/Import slot cars. ♕ are not transferable between players."
+        },
+        {
+          "id": "1.6",
+          "title": "Loans",
+          "rule": "Loans are not permitted and are bannable for both parties."
+        },
+        {
+          "id": "1.7",
+          "title": "Failure to Provide POV",
+          "rule": "If a player is on the POV list and fails to provide POV, it will result in a ban."
+        },
+        {
+          "id": "1.8",
+          "title": "Breaching Management Terms",
+          "rule": "Breaching terms set by management is against the rules and results in a permanent ban."
+        },
+        {
+          "id": "1.9",
+          "title": "Advertisement",
+          "rule": "Advertising or discussing other FiveM communities on any of our platforms is prohibited, including self-created content promoted on our platforms."
+        },
+        {
+          "id": "1.10",
+          "title": "Staff Abuse",
+          "rule": "Any form of staff abuse results in instant removal and blacklist from future staff roles."
         }
       ]
     },
     {
-      "name": "Roleplay Rules",
+      "name": "2.x Advantage Rules",
       "rules": [
         {
-          "id": 3,
-          "title": "No Random Deathmatch",
-          "rule": "Do not attack or kill without valid roleplay reason."
+          "id": "2.0",
+          "title": "Cheating and Exploits",
+          "rule": "Players must not use mods, trainers, or any software that gives an advantage. Bugs/exploits must be reported and not abused (e.g., emote clipping into walls). Server scripts must not be exploited (e.g., AFK timer bypass). Management may review prior server history and external evidence of cheating. Any FiveM/Rockstar cheat software on a player's PC results in a permanent ban. Associating with cheaters is bannable at management discretion. Using animations in unintended ways for advantage is prohibited."
         },
         {
-          "id": 4,
-          "title": "No Metagaming",
-          "rule": "Do not use out-of-character information in character."
+          "id": "2.1",
+          "title": "Ban Evading",
+          "rule": "Evading a ban by any means is punishable and results in a permanent ban."
+        }
+      ]
+    },
+    {
+      "name": "Community Rules",
+      "rules": [
+        {
+          "id": "3.0",
+          "title": "Disrupting Server Operations",
+          "rule": "Players must remain respectful and positive community members. Intimidating players away from the server or repeatedly harassing them in-game for OOC reasons to ruin their experience is prohibited."
+        },
+        {
+          "id": "3.1",
+          "title": "Knowledge of Rule Breaches",
+          "rule": "Players must report ban evasion, falsified reports, cyber-attack discussions/jokes, and other serious breaches. Hiding such information is punishable."
+        }
+      ]
+    },
+    {
+      "name": "Server Standards",
+      "rules": [
+        {
+          "id": "4.0",
+          "title": "Trolling",
+          "rule": "Trolling is not welcome. Continuing after warning can lead to bans."
+        },
+        {
+          "id": "5.0",
+          "title": "Offensive Language",
+          "rule": "Racist or homophobic slurs result in a permanent ban. Ban length may vary by severity and staff discretion."
+        }
+      ]
+    
+    },
+
+
+    {
+      "name": "7.x Roleplay Integrity",
+      "rules": [
+        {
+          "id": "7.0",
+          "title": "No Intent to RP (NITRP)",
+          "rule": "Joining with zero intent to roleplay is against the rules."
+        },
+        {
+          "id": "7.1",
+          "title": "Fail RP (FRP)",
+          "rule": "Unrealistic behavior is prohibited.\nExamples:\n- Stay in character at all times unless admins pause/void RP\n- Asking to be killed/forcing your own death\n- Respawning while in RP\n- Baiting emergency/government services without valid IC reason\n- Storing/repairing vehicles while chased or during active initiation\n- Carrying players in 2-door vehicles (allowed in 4-door, back seat)\n- Talking in VC/Tweeter while dead\n- You may flee/leave hostile RP only if no additional rule is broken (e.g., GZ retreat)"
+        },
+        {
+          "id": "7.2",
+          "title": "GTA Driving",
+          "rule": "Non-off-road vehicles cannot be used in unrealistic terrain (e.g., sports car up Mount Chiliad)."
+        },
+        {
+          "id": "7.3",
+          "title": "Breaking Character",
+          "rule": "Discussing real-life topics in VC/in-game communication is not allowed."
+        },
+         {
+          "id": "6.0",
+          "title": "Metagaming (MG)",
+          "rule": "Using out-of-character information for in-character advantage is prohibited.\nExamples:\n- Using OOC chat for in-game knowledge\n- Stream sniping for location/scene advantage\n- Using Discord/third-party comms instead of in-game radio\n- Using temp ID/BGL account identifiers to identify players in RP"
+        },
+        {
+          "id": "7.4",
+          "title": "Terrorist RP",
+          "rule": "Terrorist roleplay is not acceptable under any circumstances."
+        },
+        {
+          "id": "7.5",
+          "title": "Rape RP",
+          "rule": "Sexual assault roleplay (non-consensual touching/rape/etc.) is strictly prohibited."
+        },
+        {
+          "id": "8.0",
+          "title": "Powergaming (PG)",
+          "rule": "Using unrealistic mechanics to gain advantage is prohibited.\nExamples:\n- Changing clothes during active initiation (5 minute rule)\n- Using /me to force outcomes (e.g., duct tape mouth/tie hands)\n- Counting down during initiation\n- Using mechanics to ruin player experience (e.g., spam calling during combat)"
+        },
+        {
+          "id": "9.0",
+          "title": "New Life Rule (NLR)",
+          "rule": "After death, involved parties must forget all events/interactions leading to that death. Prior information cannot justify future hostility. Do not return to death area until scene is over and 15 minutes OOC has passed. If scene finishes, still cannot return until timer ends. Government factions may return HQ for unrelated duties. 15-minute NLR applies in red zones (including failed/restarted captures). If revived from the current scene, you cannot return to it."
+        },
+        {
+          "id": "11.0",
+          "title": "Fear Roleplay (FRP)",
+          "rule": "Value your life at all times.\nExamples:\n- No self-downing to avoid arrest/capture\n- If initiated from behind, no 180 turn to kill initiator\n- No weapon pull after valid initiation unless contextual exceptions apply (animation already in progress or sufficient cover)"
+        }
+      ]
+    },
+  
+    {
+      "name": "Safe Zones",
+      "rules": [
+        {
+          "id": "10.0",
+          "title": "No Crime Zones (Green Zones)",
+          "rule": "In or near NCZ (as shown on HUD), players cannot commit crimes or disobey PD orders. You cannot enter GZ to escape active danger/initiation (GZ retreat). Intimidating players in GZ to force scenes is not allowed.\nNo Crime Zones include:\n- Government and PD offices\n- Hospitals\n- Garages\n- Clothing stores\n- VIP Lounge"
+        }
+      ]
+    },
+ 
+    {
+      "name": "Basic Rules",
+      "rules": [
+        {
+          "id": "13.0",
+          "title": "Random Deathmatch (RDM)",
+          "rule": "Killing/shooting without valid initiation is prohibited. Valid initiation requires:\n- Visibility to target\n- Visible weapon aimed at target\n- Clear verbal demands and 7 seconds to comply (e.g., \"Hands up or you will be shot\")\n- Initiation lasts 5 minutes\nIf shot without valid initiation, self-defense return fire is allowed (does not grant gang initiation). Aiming without speaking is not initiation. Killing an uninvolved player looting a bag is not RDM."
+        },
+        {
+          "id": "14.0",
+          "title": "Vehicle Deathmatch (VDM)",
+          "rule": "Vehicles cannot be used as weapons in active shootouts unless unavoidable. Pitting/vehicle combat under initiation is not VDM. Exiting vehicle while being pitted is not VDM."
+        }
+      ]
+    },
+    {
+      "name": "Roleplay Advantages",
+      "rules": [
+        {
+          "id": "15.0",
+          "title": "Combat Logging / Storing",
+          "rule": "Do not log out during active initiation or to avoid hostile RP (including red zones or when armed player approaches). Do not store weapons/trash items to avoid active initiation (including red zones)."
+        }
+      ]
+    },
+    {
+      "name": "Impersonation",
+      "rules": [
+        {
+          "id": "16.0",
+          "title": "Impersonation Of Staff",
+          "rule": "Impersonating staff in any form is prohibited, including staff clothing."
+        },
+        {
+          "id": "16.1",
+          "title": "Impersonation of Whitelisted Faction / Gang",
+          "rule": "Wearing clothes of whitelisted factions/gangs (e.g., Medical, PD) is not allowed."
+        }
+      ]
+    },
+    {
+      "name": "Allowlist Rules",
+      "rules": [
+        {
+          "id": "17.0",
+          "title": "Whitelist Faction Abuse",
+          "rule": "Abusing faction whitelist is prohibited.\nExamples:\n- Clocked in as wrong rank\n- Police corruption\n- Using whitelisted vehicles while off duty\n- AFK farming paychecks\n- Using whitelist perks while off duty\n- Using PD weapons off duty"
+        }
+      ]
+    },
+    {
+      "name": "Gang / Criminal Rules",
+      "rules": [
+        {
+          "id": "18.0",
+          "title": "Gang Numbers",
+          "rule": "Maximum 7 members in hostile RP in the city. Maximum 10 members in red zones at one time. No limit for non-hostile RP scenes/events."
+        },
+        {
+          "id": "20.0",
+          "title": "Player Theft and Kidnapping",
+          "rule": "Maximum hostage hold time is 30 minutes. If unattended for 1 minute, hostage may escape/leave."
+        },
+         {
+          "id": "22.0",
+          "title": "Gang Initiation",
+          "rule": "If one gang member initiates on another gang member, all members of both gangs are initiated on each other city-wide."
+        },
+         {
+          "id": "23.0",
+          "title": "Gang Conflict",
+          "rule": "Gang conflicts must remain civil and within RP at all times."
+        },
+        {
+          "id": "24.0",
+          "title": "Gang Alliance",
+          "rule": "Gang alliances are not allowed, but temporary agreements that benefit both parties are allowed."
+        },
+         {
+          "id": "12.0",
+          "title": "No Reason To Initiate (NRTI)",
+          "rule": "A valid reason is required to initiate.\nGuidance:\n- Visible weapon can be reason\n- Opening boot is not reason\n- Wearing backpack is not reason\n- Robbing at drug gather/transform not allowed unless valid reason exists\n- Initiation allowed at drug sell locations\n- Camping/robbing inside gun stores is not allowed; seeing someone leave gun store can be reason\n- Player in store/using ATM is reason\n- Player leaving red zone is reason\n- Player on red zone edge (within one car length) is reason\n- Talking smack is not reason unless direct life threat\n- Pointing weapon without communication is not initiation"
+        }
+
+      ]
+    },
+    {
+      "name": "Admin Treatment",
+      "rules": [
+        {
+          "id": "19.0",
+          "title": "Wasting Admin Time",
+          "rule": "Wasting admin time in any form is not permitted."
+        },
+        {
+          "id": "21.0",
+          "title": "Spite Reporting",
+          "rule": "Reports must be filed within 24 hours. If clips show you/your friends breaking rules, the admin sit is void and both parties may be educated or banned."
+        }
+      ]
+    },
+   
+    {
+      "name": "Compensation",
+      "rules": [
+        {
+          "id": "25.0",
+          "title": "Compensation",
+          "rule": "If someone breaks a rule against you: ask them for compensation first. If refused, submit a staff report with valid clip evidence. Management can force compensation."
         }
       ]
     }
